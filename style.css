@@ -1,0 +1,15 @@
+.red{
+    color:#FF5733;
+}
+.green{
+    color:#0BDA51;
+}
+.h4{
+    font-weight: 400;
+}
+.redBlue{
+    position: fixed;
+    bottom: 1rem;
+    padding: 0;
+    margin-left: .7rem;
+}
